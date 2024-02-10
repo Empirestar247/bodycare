@@ -51,4 +51,15 @@
 #login-text a:hover {
     text-decoration: underline;
 }
+/* Media Queries for Responsive Design */
 
+/* Mobile */
+@media (max-width: 576px) {
+    #register-form {
+        width: 90%;
+    }
+
+    #register-form button {
+        font-size: 14px;
+    }
+}
