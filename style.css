@@ -1,0 +1,9 @@
+.content{
+    background-image:url("./images/images.jpg");
+    background-size: cover no-repeat;
+    background-position: center;
+    height: 880px; max-width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;   
+}
